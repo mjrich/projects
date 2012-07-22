@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 # First post using Prose and GitHub
 
